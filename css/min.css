@@ -1,12 +1,11 @@
-
 *{
 margin:0;
 padding:0;
 }
 a.nxm{
-background-color:#fff; color:#fff; width:70%; height:53px; border-radius:1px; border: 1px solid #088A4B;;
+background-color:#fff; color:#088A4B; width:70%; height:53px; border-radius:1px; border: 1px solid #088A4B;;
 transition:0.33s;
-padding:10px 25px;
+padding:20px 35px;
 text-decoration: none;
 }
 a.nxm:focus{
@@ -45,7 +44,7 @@ font-family: 'Poppins', sans-serif;
 text-decoration: none;
 margin:0px;
 }
-.a-nxm:hover{
+.a-nxm:focus{
 color:#fff;
 border: 1px dashed currentColor;
 font-family: 'Poppins', sans-serif;
