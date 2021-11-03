@@ -56,7 +56,7 @@ text-decoration: none;
 a.nxl{
 background-color:#fff; color:#088A4B; width:70%; height:53px; border-radius:1px; border: 1px solid #088A4B;;
 transition:0.33s;
-padding:20px 35px;
+padding:15px 35px;
 text-decoration: none;
 }
 a.nxl:focus{
@@ -69,7 +69,7 @@ padding:50px 47%;
 a.nxc{
 background-color:#fff; color:#088A4B; width:70%; height:53px; border-radius:1px; border: 1px solid #088A4B;;
 transition:0.33s;
-padding:20px 35px;
+padding:15px 35px;
 text-decoration: none;
 }
 a.nxc:focus{
