@@ -1,6 +1,7 @@
 *{
 margin:0;
 padding:0;
+font-family: 'Zen Kurenaido', sans-serif;
 }
 a.nxm{
 background-color:#fff; color:#088A4B; width:70%; height:53px; border-radius:1px; border: 1px solid #088A4B;;
@@ -51,3 +52,16 @@ font-family: 'Poppins', sans-serif;
 transition:0.0s;
 text-decoration: none;
 }
+a.nxl{
+background-color:#fff; color:#088A4B; width:70%; height:53px; border-radius:1px; border: 1px solid #088A4B;;
+transition:0.33s;
+padding:20px 35px;
+text-decoration: none;
+}
+a.nxl:focus{
+background:#088A4B;
+color:#fff;
+transition:0.1s;
+padding:50px 42%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
